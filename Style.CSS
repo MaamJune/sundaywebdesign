@@ -1,0 +1,42 @@
+p {
+            color: rgb(127, 219, 255);
+            text-decoration-color: #ff4000;
+            text-shadow: 5px 2px 3px #ffcc00;
+        }
+
+        a {
+            color: aqua;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: blue;
+             font-size: 24px;
+        }
+
+        .imgclass1{
+            border: 3px solid green;
+            border-radius: 50px;
+            box-shadow: 20px 20px 5px lightcoral;
+            width: 300px
+        }
+
+        .imgclass2{
+            border: 3px solid green;
+            border-radius: 50px;
+            box-shadow: 20px 20px 5px lightcoral;
+            width: 650px
+        }
+
+        .img-circle{
+            border-radius: 500px;
+            box-shadow: 100px 80px 50px rgb(230, 205, 173)
+        }
+
+        h1{ 
+            color:#ffcc00
+        }
+
+        h2{
+            color:aqua
+        }
